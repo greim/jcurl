@@ -8,4 +8,4 @@ This isn't a replacement for curl, but rather just a tool that makes it easy to 
 
 # Installation
 
-    npm instal -g jcurl
+    npm install -g jcurl
