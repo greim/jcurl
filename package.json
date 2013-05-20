@@ -1,0 +1,25 @@
+{
+  "name": "jcurl",
+  "preferGlobal": "true",
+  "version": "0.1.0",
+  "author": "Greg Reimer <gregreimer@gmail.com>",
+  "description": "curl, but tries to prettify json",
+  "bin": {
+    "jcurl": "./bin/jcurl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/greim/jcurl.git"
+  },
+  "keywords": [
+    "json",
+    "curl",
+    "pretty"
+  ],
+  "dependencies" : {
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
