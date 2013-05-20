@@ -1,11 +1,12 @@
 {
   "name": "jcurl",
   "preferGlobal": "true",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Greg Reimer <gregreimer@gmail.com>",
   "description": "curl, but tries to prettify json",
   "bin": {
-    "jcurl": "./bin/jcurl"
+    "jcurl": "./bin/jcurl",
+    "json-pretty": "./bin/json-convert.js"
   },
   "repository": {
     "type": "git",
